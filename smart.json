@@ -1,0 +1,9 @@
+{
+  "name": "Billing2",
+  "description": "Subscription and feature management for Meteor.",
+  "homepage": "http://www.github.com/forwarder/meteor-billing",
+  "author": "Eelco Wiersma <eelco@forwarder.nl> (http://forwarder.nl)",
+  "version": "0.1",
+  "packages": {
+  }
+}
